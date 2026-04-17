@@ -1,1 +1,0 @@
-NikolaHelper = Nikola's Helper

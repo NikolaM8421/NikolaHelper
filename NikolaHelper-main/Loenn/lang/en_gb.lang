@@ -1,2 +1,0 @@
-triggers.NikolaHelper/LockPlayerState.placements.name.normal=Lock Player State
-triggers.NikolaHelper/LockPlayerState.placements.description.normal=Locks the player state to the value it was when entering the trigger. Note that certain cutscenes unlock it.
